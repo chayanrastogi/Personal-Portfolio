@@ -5,6 +5,7 @@ const Footer = () => (
     <a
       href='https://github.com/chayanrastogi'
       className='link footer__link'
+      target='blank'
     >
       Created By Chayan Rastogi
     </a>
