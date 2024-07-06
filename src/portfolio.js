@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Chayan Rastogi',
-  role: 'Front End Developer',
+  role: 'JavaScript Developer',
   description:
     'MERN stack developer with a passion for creating beautiful, functional, and user-friendly websites. I am a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. I am always looking for new challenges and opportunities to grow as a developer.',
   resume: 'https://drive.google.com/file/d/1SyohDbmEXsIMv79NaQ7iQkypyREdXKvz/view?usp=sharing://www.dropbox.com/scl/fi/cw1vgtdyw16etf83ss5br/Chayan_Rastogi.pdf?rlkey=73saxmfork2feshwy49zekvv7&dl=0',
